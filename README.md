@@ -1,5 +1,5 @@
 ## You are visiting my 2nd account
-Access my old account here: [Az140304]("https://github.com/Az140304">Az140304)
+Access my old account here: <a href="https://github.com/Az140304/">Az140304</a>
 
 <!--
 **afharyo12/afharyo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
